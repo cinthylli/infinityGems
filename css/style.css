@@ -12,9 +12,12 @@ body {
     width: auto;
     height: auto;
     background-image: url("img/estellas.jpg");
-    background-color: black;
+  padding: 180px 0;
+  background-position: center center;
+  background-size: cover;
+  background-repeat:no-repeat;
     font-family: 'Darker Grotesque', sans-serif;
-    background-repeat: no-repeat;
+    background-repeat: no-repat;
 }
 
 video-container {
